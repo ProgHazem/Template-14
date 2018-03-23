@@ -1,0 +1,21 @@
+******************************************************************
+========== Simple Site for hazem blog==============
+
+Template 14
+
+==> use HTML5.
+
+==> use CSS3.
+
+==> use Bootstrap
+
+==> use Fontawesome
+
+==> use Jquery
+
+==> php & Mysql
+
+
+                                               thanks for reading
+                                                      Hazem
+*******************************************************************
